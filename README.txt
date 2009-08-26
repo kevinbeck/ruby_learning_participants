@@ -58,3 +58,6 @@ Change log:
 Cheers,
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
+
+Yo,
+kmb (Kevin Beck)
